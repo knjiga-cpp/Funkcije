@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PredlošciFunkcija.cpp">
+    <ClCompile Include="AutoDecltypeAuto.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
